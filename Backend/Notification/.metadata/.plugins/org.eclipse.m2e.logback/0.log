@@ -1,0 +1,21 @@
+2025-03-15 20:12:46,365 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-15 20:13:15,939 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sa.sls:notificationservice:0.0.1-SNAPSHOT @ C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\pom.xml.
+2025-03-15 20:13:18,830 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /notificationservice/src/main/java
+2025-03-15 20:13:18,832 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /notificationservice/src/main/resources
+2025-03-15 20:13:18,840 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /notificationservice/src/main/resources
+2025-03-15 20:13:18,845 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /notificationservice/src/test/java
+2025-03-15 20:13:18,846 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /notificationservice/src/test/resources
+2025-03-15 20:13:19,542 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2025-03-15 20:13:20,601 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-15 20:13:20,632 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-15 20:13:20,639 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\src\test\resources
+2025-03-15 20:20:18,420 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sa.sls:notificationservice:0.0.1-SNAPSHOT @ C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\pom.xml.
+2025-03-15 20:20:19,721 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-15 20:20:19,722 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-15 20:20:19,727 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\src\test\resources
+2025-03-15 20:20:21,221 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-15 20:20:21,243 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-15 20:20:21,248 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\src\test\resources
+2025-03-15 20:59:46,362 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-15 20:59:46,598 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-15 20:59:46,605 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Notification\notificationservice\src\test\resources
