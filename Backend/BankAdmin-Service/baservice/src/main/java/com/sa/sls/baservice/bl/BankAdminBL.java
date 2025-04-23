@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.sa.sls.baservice.constants.BankAdminConstants;
 import com.sa.sls.baservice.dao.IBankAdminDAO;
+import com.sa.sls.baservice.dao.IGuarantorDAO;
 import com.sa.sls.baservice.dao.IUserDAO;
 import com.sa.sls.baservice.model.BankAdmin;
 

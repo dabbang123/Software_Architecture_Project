@@ -798,3 +798,27 @@
 2025-03-16 13:21:19,477 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-03-16 13:21:19,492 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-03-16 13:21:19,496 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-29 20:05:09,163 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-29 20:05:16,439 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-29 20:05:16,464 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-29 20:05:16,471 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-29 20:15:33,321 [Worker-3: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-29 20:15:33,353 [Worker-3: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-29 20:15:33,363 [Worker-3: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-29 20:18:24,227 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-29 20:18:24,318 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-29 20:18:24,325 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-29 20:19:15,809 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-29 20:19:16,680 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-29 20:19:16,684 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-29 21:05:20,345 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-29 21:05:20,368 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-29 21:05:20,374 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-03-31 13:26:17,410 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-31 13:42:26,008 [Worker-20: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-31 13:42:26,077 [Worker-20: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-31 13:42:26,092 [Worker-20: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources
+2025-04-01 23:24:30,221 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-01 23:24:39,522 [Worker-5: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-01 23:24:39,563 [Worker-5: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-01 23:24:39,574 [Worker-5: Launching StudentserviceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\abhis\Masters\Modules\Sem 2\CS5722 - Software Architecture\Project\Backend\Student-Service\studentservice\src\test\resources

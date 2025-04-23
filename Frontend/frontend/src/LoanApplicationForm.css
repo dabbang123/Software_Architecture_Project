@@ -1,0 +1,84 @@
+.loan-form-container {
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    margin: 40px auto;
+    max-width: 800px;
+  }
+  
+  .loan-form-container h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #1f2937;
+    margin-bottom: 25px;
+  }
+  
+  .loan-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 30px;
+  }
+  
+  .loan-form label {
+    display: block;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 6px;
+  }
+  
+  .loan-form input,
+  .loan-form select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    font-size: 14px;
+    background-color: #f9fafb;
+  }
+  
+  .loan-form input:focus,
+  .loan-form select:focus {
+    outline: none;
+    border-color: #2563eb;
+    background-color: #ffffff;
+  }
+  
+  .loan-form button {
+    grid-column: 1 / -1;
+    padding: 12px;
+    background-color: #2563eb;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 10px;
+    transition: background 0.3s ease;
+  }
+  
+  .loan-form button:hover {
+    background-color: #1e40af;
+  }
+  
+  .success-box,
+  .error-box {
+    margin-bottom: 20px;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    text-align: center;
+    grid-column: 1 / -1;
+  }
+  
+  .success-box {
+    background: #e6f4ea;
+    color: #15803d;
+  }
+  
+  .error-box {
+    background: #fdecea;
+    color: #b91c1c;
+  }
+  

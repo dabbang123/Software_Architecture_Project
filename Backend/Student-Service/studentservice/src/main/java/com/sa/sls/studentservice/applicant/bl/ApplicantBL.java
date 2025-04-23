@@ -135,7 +135,8 @@ public class ApplicantBL implements IApplicantBL
 		applicant.setFirstName(Objects.toString(userValues.get(ApplicantConstants.FIRST_NAME)));
 		applicant.setLastName(Objects.toString(userValues.get(ApplicantConstants.LAST_NAME)));
 		String dateString = Objects.toString(userValues.get(ApplicantConstants.DATE_OF_BIRTH));
-		DateTimeFormatter formatter = new DateTimeFormatterBuilder().parseCaseInsensitive().appendPattern(ApplicantConstants.DATE_PATTERN).toFormatter(Locale.ENGLISH);
+//		DateTimeFormatter formatter = new DateTimeFormatterBuilder().parseCaseInsensitive().appendPattern(ApplicantConstants.DATE_PATTERN).toFormatter(Locale.ENGLISH);
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 		java.sql.Date sqlDate = null;
 		try 
 		{

@@ -1,0 +1,127 @@
+/* Background styling */
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #dbeafe, #f0f9ff);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Card box */
+  .login-card {
+    background: #ffffff;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  /* Header */
+  .login-card h2 {
+    margin-bottom: 8px;
+    font-size: 26px;
+    color: #1f2937;
+  }
+  
+  .login-subtitle {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 20px;
+  }
+  
+  /* Error box */
+  .error-box {
+    background: #fdecea;
+    color: #b91c1c;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  /* Form */
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+  .login-form label {
+    margin-bottom: 6px;
+    font-weight: 500;
+    color: #374151;
+  }
+  
+  .login-form input {
+    padding: 10px;
+    margin-bottom: 18px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: border 0.2s ease;
+  }
+  
+  .login-form input:focus {
+    border-color: #2563eb;
+    outline: none;
+  }
+  
+  /* Button */
+  .login-form button {
+    padding: 12px;
+    background-color: #2563eb;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background 0.3s ease;
+  }
+  
+  .login-form button:hover {
+    background-color: #1e40af;
+  }
+  
+  /* Footer links */
+  .login-footer {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .login-footer a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+  
+  .login-footer a:hover {
+    text-decoration: underline;
+  }
+/* Dropdown styling */
+.dropdown {
+    padding: 10px;
+    margin-bottom: 18px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 14px;
+    background-color: #fff;
+    transition: border 0.2s ease;
+  }
+  
+  .dropdown:focus {
+    border-color: #2563eb;
+    outline: none;
+  }
+  .success-box {
+    background: #e6f4ea;
+    color: #15803d;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+    text-align: center;
+  }
+      
